@@ -14,7 +14,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: EST
-  logo: /images/clearstatus.svg
+  logo: /images/adirondack-logo.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     example.com' href='https://www.example.com/'>example</a> systems operations.
   copyrightHolder: Adirondack Bank
