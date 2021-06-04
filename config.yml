@@ -15,8 +15,7 @@ params:
   disqusShortname: null
   timezoneString: EST
   logo: /images/adirondack-logo.png
-  description_header: Information about <a class='text-grey-darkest' title='Visit
-    example.com' href='https://www.example.com/'>example</a> systems operations.
+  description_header: Status of the systems used at ADK Bank
   copyrightHolder: Adirondack Bank
   eventsPerPage: 10
   iconType: image/png
