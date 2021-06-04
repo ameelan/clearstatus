@@ -11,13 +11,18 @@ params:
     - name: Helpdesk
       description: Our company support site
       link: https://support.example.com/
+    - name: Navigator
+      description: Fiserv Navigator Application
+      link: https://nav7.fiservse.net/NAV_nav1151/NAV1151.ASPX?Group=INST338&Inst=38
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: EST
   logo: /images/adirondack-logo.png
-  description_header: Status of the systems used at ADK Bank
+  description_header: This status page provides updated information about our
+    systems normal operation, incidents that may happen and their resolution.
   copyrightHolder: Adirondack Bank
   eventsPerPage: 10
   iconType: image/png
+  groups: []
   icon: /images/clearstatus.png
   description_footer: ""
